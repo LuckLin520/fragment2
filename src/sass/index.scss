@@ -1,0 +1,85 @@
+body,p,h1,h2,h3,h4,ul,dl,dd,input,figure{margin: 0;padding: 0;}
+header,nav,main,footer,section,article,aside,ul,li,dl,dt,dd,p,div,h1,h2,h3,h4{box-sizing:border-box;}
+ul li{list-style: none;}
+a{text-decoration: none;color: inherit;}
+img,input{border: 0;vertical-align: top;}
+i,em{font-style:normal;}
+html,body{height: 100%;}
+body{display: flex;flex-direction: column;}
+
+header{
+	height: 11.85vw;
+	background: #00b38a;
+	color:#fff;
+	text-align: center;
+	line-height: 11.85vw;
+	border-top: 1px solid #a5e4d6;
+}
+main{
+	flex: 1;
+	overflow: auto;
+	.list{
+		li{
+			padding: 3.52vw 0 3.52vw 3.52vw;
+			border-bottom: 1px solid #ececec;
+			height: 23.7vw;
+			dl{
+				float: left;
+				width: 73.7vw;
+				dt{
+					float: left;
+					margin-right: 2.56vw;
+				}
+				dd{
+					float: left;
+				}
+				dd .cpname{
+					font-size: 4.48vw;
+					margin-top: -0.6vw;
+				}
+				dd .psname{
+					font-size: 2.9vw;
+					line-height: 6.3vw;
+				}
+				dd .time{
+					font-size: 3.35vw;
+					color: #888;
+				}
+			}
+			p.salary{
+				float: right;
+				margin-right: 3.52vw;
+				color: #00b38a;
+				font-size: 3.86vw;
+			}
+			img{
+				width: 16vw;
+				height: 16vw;
+			}
+		}
+	}
+}
+
+footer{
+	height: 12.1vw;
+	border-top: 1px solid #f3f3f3;
+	background: #f6f6f6;
+	.tab{
+		display: flex;
+		justify-content: space-between;
+		li{
+			height: 12.1vw;
+			flex: 1;
+			text-align: center;
+			line-height: 12.1vw;
+			color: #b6ccc8;
+			background: #f6f6f6;
+		}
+		li.position{
+			background: #e7f3f0;
+			color: #1bbb96;
+			font-weight: bold;
+
+		}
+	}
+}

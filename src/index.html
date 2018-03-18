@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<script src="lib/jquery/jquery-1.12.4.min.js"></script>
+	<script src="lib/artTemplate/template.js"></script>
+	<script src="js/index.js"></script>
+</head>
+<body>
+	<header>拉勾网</header>
+	<main>
+		<ul class="list"></ul>
+		<script type="text/html" id="list">
+			{{each pro as v i}}
+				<li positionId="{{v.positionId}}">
+					<dl>
+						<dt><img src="{{v.companyLogo}}"></dt>
+						<dd>
+							<div class="cpname">{{v.companyName}}</div>
+							<div class="psname">{{v.positionName}}<span> [{{v.city}}]</span></div>
+							<div class="time">{{v.createTime}}</div>
+						</dd>
+					</dl>
+					<p class="salary">{{v.salary}}</p>
+				</li>
+			{{/each}}
+		</script>
+	</main>
+	<footer>
+		<ul class="tab">
+			<li class="position">职位</li>
+			<li class="">搜索</li>
+			<li class="">我的</li>
+		</ul>
+	</footer>
+	
+</body>
+</html>

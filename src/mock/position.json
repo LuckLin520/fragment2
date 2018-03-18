@@ -1,0 +1,305 @@
+[{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3656671,
+    "positionName": "运营专员助理",
+    "city": "北京",
+    "createTime": "今天 10:52",
+    "salary": "5k-7k",
+    "companyId": 35946,
+    "companyLogo": "https://static.lagou.com/i/image/M00/06/79/CgpFT1jeAUOATrstAAAkBGQCm2U096.png",
+    "companyName": "闪送",
+    "companyFullName": "北京闪送科技有限公司",
+    "attract": "迅速发展，五险一金，环境舒适，福利好",
+    "condition": {
+        "edu": "大专及以上",
+        "work": "全职",
+        "exp": "1年以上",
+        "text": [
+            "具备3年及以上Web前端研发经验，具备互联网移动端产品研发工作经验者优先；",
+            "精通JavaScript，CSS，HTML5，DOM/BOM等前端技术，熟悉W3C，ES5/ES6，CommonJS等相关标准；",
+            "能独立完成较复杂前端系统的开发工作；",
+            "了解HTTP、HTTPS、Ajax；",
+            "要求熟练使用任何一种主流前端框架（AngularJS、React/Redux、Vue、RN、Riot等）；",
+            "对大前端技术有兴趣，热爱钻研沉淀和分享；",
+            "优秀的团队合作能力，沟通顺畅，追求卓越。"
+
+        ]
+    },
+    "doth":[
+        "根据工作安排高效、高质地完成代码编写，确保符合规范的前端代码规范；",
+        "负责公司项目的前端修改调试和开发工作，优化用户交互体验；",
+        "与设计团队紧密配合，能够实现实现设计师的设计想法；",
+        "与后端开发团队紧密配合，确保代码有效对接，优化页面前端性能，兼容各主流浏览器；",
+        "能通过各类前端技术对页面进行极致的优化，良好的前端代码习惯，不能忍受垃圾代码，有强迫症尤佳。"
+    ]
+},
+{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3652822,
+    "positionName": "后台产品经理",
+    "city": "北京",
+    "createTime": "今天 10:52",
+    "salary": "30k-40k",
+    "companyId": 35946,
+    "companyLogo": "https://static.lagou.com/i/image/M00/06/79/CgpFT1jeAUOATrstAAAkBGQCm2U096.png",
+    "companyName": "闪送",
+    "companyFullName": "北京闪送科技有限公司",
+    "attract": "晋升空间，500强企业，双休，出国旅游",
+    "condition": {
+        "edu": "大专、本科",
+        "work": "全职",
+        "exp": "2-3年",
+        "text": [
+            "具备3年及以上Web前端研发经验，具备互联网移动端产品研发工作经验者优先；",
+            "精通JavaScript，CSS，HTML5，DOM/BOM等前端技术，熟悉W3C，ES5/ES6，CommonJS等相关标准；",
+            "能独立完成较复杂前端系统的开发工作；",
+            "了解HTTP、HTTPS、Ajax；",
+            "要求熟练使用任何一种主流前端框架（AngularJS、React/Redux、Vue、RN、Riot等）；",
+            "对大前端技术有兴趣，热爱钻研沉淀和分享；",
+            "优秀的团队合作能力，沟通顺畅，追求卓越。"
+
+        ]
+    },
+    "doth":[
+        "根据工作安排高效、高质地完成代码编写，确保符合规范的前端代码规范；",
+        "负责公司项目的前端修改调试和开发工作，优化用户交互体验；",
+        "与设计团队紧密配合，能够实现实现设计师的设计想法；",
+        "与后端开发团队紧密配合，确保代码有效对接，优化页面前端性能，兼容各主流浏览器；",
+        "能通过各类前端技术对页面进行极致的优化，良好的前端代码习惯，不能忍受垃圾代码，有强迫症尤佳。"
+    ]
+},
+{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3649473,
+    "positionName": "语音测试实习生",
+    "city": "南京",
+    "createTime": "今天 10:51",
+    "salary": "3k-4k",
+    "companyId": 83580,
+    "companyLogo": "https://static.lagou.com/image1/M00/45/15/Cgo8PFXZ2tuAdaWAAAF9uSm9of8297.jpg",
+    "companyName": "地平线机器人",
+    "companyFullName": "北京地平线信息技术有限公司",
+    "attract": "时尚品类，专业团队，发展空间无限",
+    "condition": {
+        "edu": "高中以上",
+        "work": "全职",
+        "exp": "1年",
+        "text": [
+            "具备3年及以上Web前端研发经验，具备互联网移动端产品研发工作经验者优先；",
+            "精通JavaScript，CSS，HTML5，DOM/BOM等前端技术，熟悉W3C，ES5/ES6，CommonJS等相关标准；",
+            "能独立完成较复杂前端系统的开发工作；",
+            "了解HTTP、HTTPS、Ajax；",
+            "要求熟练使用任何一种主流前端框架（AngularJS、React/Redux、Vue、RN、Riot等）；",
+            "对大前端技术有兴趣，热爱钻研沉淀和分享；",
+            "优秀的团队合作能力，沟通顺畅，追求卓越。"
+
+        ]
+    },
+    "doth":[
+        "根据工作安排高效、高质地完成代码编写，确保符合规范的前端代码规范；",
+        "负责公司项目的前端修改调试和开发工作，优化用户交互体验；",
+        "与设计团队紧密配合，能够实现实现设计师的设计想法；",
+        "与后端开发团队紧密配合，确保代码有效对接，优化页面前端性能，兼容各主流浏览器；",
+        "能通过各类前端技术对页面进行极致的优化，良好的前端代码习惯，不能忍受垃圾代码，有强迫症尤佳。"
+    ]
+},
+{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3653643,
+    "positionName": "高级java开发工程师",
+    "city": "深圳",
+    "createTime": "今天 10:50",
+    "salary": "15k-25k",
+    "companyId": 24548,
+    "companyLogo": "https://static.lagou.com/image1/M00/00/32/Cgo8PFTUXIqAVoVAAAA_wD9LNj4965.png",
+    "companyName": "和美信息",
+    "companyFullName": "深圳市和美信息技术有限公司",
+    "attract": "五限一金，双休，提供住宿，生日福利",
+    "condition": {
+        "edu": "本科",
+        "work": "全职",
+        "exp": "2-5年",
+        "text": [
+            "具备3年及以上Web前端研发经验，具备互联网移动端产品研发工作经验者优先；",
+            "精通JavaScript，CSS，HTML5，DOM/BOM等前端技术，熟悉W3C，ES5/ES6，CommonJS等相关标准；",
+            "能独立完成较复杂前端系统的开发工作；",
+            "了解HTTP、HTTPS、Ajax；",
+            "要求熟练使用任何一种主流前端框架（AngularJS、React/Redux、Vue、RN、Riot等）；",
+            "对大前端技术有兴趣，热爱钻研沉淀和分享；",
+            "优秀的团队合作能力，沟通顺畅，追求卓越。"
+
+        ]
+    },
+    "doth":[
+        "根据工作安排高效、高质地完成代码编写，确保符合规范的前端代码规范；",
+        "负责公司项目的前端修改调试和开发工作，优化用户交互体验；",
+        "与设计团队紧密配合，能够实现实现设计师的设计想法；",
+        "与后端开发团队紧密配合，确保代码有效对接，优化页面前端性能，兼容各主流浏览器；",
+        "能通过各类前端技术对页面进行极致的优化，良好的前端代码习惯，不能忍受垃圾代码，有强迫症尤佳。"
+    ]
+},
+{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3656672,
+    "positionName": "运营专员助理",
+    "city": "北京",
+    "createTime": "今天 10:52",
+    "salary": "5k-7k",
+    "companyId": 35946,
+    "companyLogo": "https://static.lagou.com/i/image/M00/06/79/CgpFT1jeAUOATrstAAAkBGQCm2U096.png",
+    "companyName": "闪送",
+    "companyFullName": "北京闪送科技有限公司",
+    "attract": "福利多多，交通补贴，出国旅游",
+    "condition": {
+        "edu": "大专、本科",
+        "work": "全职",
+        "exp": "2年以上",
+        "text": [
+            "具备3年及以上Web前端研发经验，具备互联网移动端产品研发工作经验者优先；",
+            "精通JavaScript，CSS，HTML5，DOM/BOM等前端技术，熟悉W3C，ES5/ES6，CommonJS等相关标准；",
+            "能独立完成较复杂前端系统的开发工作；",
+            "了解HTTP、HTTPS、Ajax；",
+            "要求熟练使用任何一种主流前端框架（AngularJS、React/Redux、Vue、RN、Riot等）；",
+            "对大前端技术有兴趣，热爱钻研沉淀和分享；",
+            "优秀的团队合作能力，沟通顺畅，追求卓越。"
+
+        ]
+    },
+    "doth":[
+        "根据工作安排高效、高质地完成代码编写，确保符合规范的前端代码规范；",
+        "负责公司项目的前端修改调试和开发工作，优化用户交互体验；",
+        "与设计团队紧密配合，能够实现实现设计师的设计想法；",
+        "与后端开发团队紧密配合，确保代码有效对接，优化页面前端性能，兼容各主流浏览器；",
+        "能通过各类前端技术对页面进行极致的优化，良好的前端代码习惯，不能忍受垃圾代码，有强迫症尤佳。"
+    ]
+},
+{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3652823,
+    "positionName": "后台产品经理",
+    "city": "北京",
+    "createTime": "今天 10:52",
+    "salary": "30k-40k",
+    "companyId": 35946,
+    "companyLogo": "https://static.lagou.com/i/image/M00/06/79/CgpFT1jeAUOATrstAAAkBGQCm2U096.png",
+    "companyName": "闪送",
+    "companyFullName": "北京闪送科技有限公司",
+    "attract": "出国旅游, 年终分红，专业团队",
+    "condition": {
+        "edu": "本科",
+        "work": "全职",
+        "exp": "5年",
+        "text": [
+            "扎实的计算机专业基本功，具备较强的编程能力素质、质量意识；",
+            "熟悉计算机网络，知道从 TCP 层到 HTTP 层的工作原理；",
+            "熟练掌握 React、 Vue 或 Angular 等前端框架，并理解其工作机制。",
+            "熟练掌握 node.js",
+            "在工程实践、质量控制上有深刻积累；",
+            "有较强的逻辑思维能力，善于分析、归纳、解决问题；",
+            "能够独立或带队进行项目开发。"
+
+        ]
+    },
+    "doth":[
+        "负责餐饮收银产品网页、内嵌移动页、React Native 与小程序的开发与维护，并保证可扩展和可维护性；",
+        "持续优化产品性能，保证 App 安全、稳定、快速运行",
+        "以快速解决业务需求为第一要义，用技术手段把质量提升 10 倍、100 倍；",
+        "解决运行中出现的故障和问题，同时提供性能优化、日志收集及统计分析等方案；",
+        "承担关键攻关任务的同时，能够指导初级工程师，组织团队技术分享，促进团队成员共同进步。"
+    ]
+},
+{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3649474,
+    "positionName": "语音测试实习生",
+    "city": "南京",
+    "createTime": "今天 10:51",
+    "salary": "3k-4k",
+    "companyId": 83580,
+    "companyLogo": "https://static.lagou.com/image1/M00/45/15/Cgo8PFXZ2tuAdaWAAAF9uSm9of8297.jpg",
+    "companyName": "地平线机器人",
+    "companyFullName": "北京地平线信息技术有限公司",
+    "attract": "团队很nice，boss很nice，福利也很nice",
+    "condition": {
+        "edu": "本科",
+        "work": "全职",
+        "exp": "不限",
+        "text": [
+            "全日制本科及以上学历，两年以上的前端开发经验，能独立完成前端开发工作。",
+            "熟练掌握HTML5/CSS3/JavaScript/jQuery /Ajax等前端技术",
+            "熟练掌握Vue.js/element-ui，有至少一年的vue项目开发经验",
+            "熟悉javescript工程化流程，熟练使用webpack、gulp等工程化工具",
+            "熟练使用SVN或Git版本管理工具",
+            "熟悉Bootstarp,能够完成响应式布局、熟悉CSS预编译语言（less、sass、stylus）",
+            "熟悉Node,js相关知识，了解基本的路由，http请求、中间件等概念",
+            "熟悉ES6语法以及面向对象编程",
+            "熟悉HTML5在PC端、移动设备端的适配和优化",
+            "对用户体验、交互操作流程有深入理解，有良好的编码习惯，有代码洁癖加分"
+
+        ]
+    },
+    "doth":[
+        "参与软件项目的前端功能开发、测试和文档编写",
+        "与UI、产品经理进行沟通，理解并落地需求",
+        "与使用Vue/element-ui/es6/jQuery/less，构建后台管理系统",
+        "与后端配合，通过Ajax实现页面交互"
+    ]
+},
+{
+    "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+    },
+    "positionId": 3653644,
+    "positionName": "高级java开发工程师",
+    "city": "深圳",
+    "createTime": "今天 10:50",
+    "salary": "15k-25k",
+    "companyId": 24548,
+    "companyLogo": "https://static.lagou.com/image1/M00/00/32/Cgo8PFTUXIqAVoVAAAA_wD9LNj4965.png",
+    "companyName": "和美信息",
+    "companyFullName": "深圳市和美信息技术有限公司",
+    "attract": "六险一金,全额公积金,节假日福利,带薪年假",
+    "condition": {
+        "edu": "本科",
+        "work": "全职",
+        "exp": "不限",
+        "text": [
+            "专科及以上学历，计算机、软件等相关专业",
+            "1年以上web开发经验，熟悉WebStorm，Webpack，gulp等前端开发管理工具",
+            "熟悉JavaScript/HTML/CSS等基础知识,熟练运用html5/css3新特性，能快速实现页面布局。",
+            "熟悉前端开发框架（至少一种），有react项目经验优先。",
+            "熟悉web标准和各浏览器版本兼容性处理；",
+            "热爱前端，具有良好的编码风格，较强的学习能力以及良好的团队协作和沟通能力。"
+
+        ]
+    },
+    "doth":[
+        "负责公司各项目的前端技术结构设计及功能开发；",
+        "负责公司各项目前端功能优化，Bug修复，前端技术研究等；",
+        "负责熟悉并针对主流浏览器的代码兼容优化；",
+        "负责对页面开发功能完成测试及调试；"
+        
+    ]
+}]

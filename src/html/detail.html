@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	<link rel="stylesheet" type="text/css" href="/css/detail.css">
+	<script src="/lib/jquery/jquery-1.12.4.min.js"></script>
+	<script src="/lib/artTemplate/template.js"></script>
+	<script src="/js/detail.js"></script>
+</head>
+</head>
+<body>
+	<header><p><span onclick="location='/index.html'">&lt;</span><em>职位详情</em><i>口</i></p></header>
+	<main>
+		
+	</main>
+	<script type="text/html" id="pro">
+		<div class="tit">
+			<h2>{{pro.positionName}}</h2>
+			<dl>
+				<dt><i>口</i></dt>
+				<dd>未收藏</dd>
+			</dl>
+		</div>
+		<div class="detail">
+			<ul class="info">
+				<li><i>口</i>{{pro.salary}}</li>
+				<li><i>口</i>{{pro.city}}</li>
+				<li><i>口</i>{{pro.condition.work}}</li>
+				<li><i>口</i>{{pro.condition.exp}}</li>
+				<li><i>口</i>{{pro.condition.edu}}</li>
+				<li></li>
+			</ul>
+			<p class="attract">职位诱惑：<span>{{pro.attract}}</span></p>
+			
+		</div>
+		<div class="log">
+			<dl>
+				<dt><img src="{{pro.companyLogo}}"></dt>
+				<dd><h3>{{pro.companyName}}</h3><p>{{pro.companyFullName}}</p></dd>
+			</dl>
+			<div class="ico"><i>口</i></div>
+		</div>
+		<div class="description">
+			<h2>职位描述</h2>
+			<div class="con">
+				<h4>任职要求：</h4>
+				<div class="text">
+					{{each pro.condition.text as v i}}
+						<p>- {{v}}</p>
+					{{/each}}
+				</div>
+				<h4>工作内容：</h4>
+				<div class="text">
+					{{each pro.doth as v i}}
+						<p>- {{v}}</p>
+					{{/each}}
+				</div>
+			</div>	
+		</div>
+	</script>
+	<footer>
+		<div class="send">投递简历</div>
+	</footer>
+</body>
+</html>
